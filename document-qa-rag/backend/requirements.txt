@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pypdf
+chromadb
+pymilvus
+sentence-transformers
+openai
+langchain
+tiktoken
+python-dotenv
